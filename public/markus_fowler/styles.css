@@ -1,0 +1,22 @@
+h1 {
+    color:maroon;
+    font-size: 60px;
+}
+body {
+    background-color:wheat;
+    color:maroon
+}
+h2 {
+    background-color: rgb(255, 255, 227);
+    width: 90px;
+    }
+.footer {
+    background-color:rgb(255, 255, 227);
+}
+img {
+    
+}
+.how {
+    background-color:rgb(255, 255, 227);
+    width: 125px;
+}
